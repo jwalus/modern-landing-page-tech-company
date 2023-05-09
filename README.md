@@ -1,3 +1,2 @@
-# modern_landingpage
-Front-end landing webpage built with Vite+React+TailWindCss
-Website design found on figma.
+Responsive front-end landing page, design found on figma. <br />
+Project was made using Vite+ReactJs+TailWindCSS.
