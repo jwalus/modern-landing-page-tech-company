@@ -1,8 +1,13 @@
-import { File } from './components'
+import { Navbar, Hero, Features, Testimonials, CTA, Footer } from './components'
 
 const App = () => (
-    <div>
-      <File />
+    <div className='overflow-x-hidden body'>
+      <Navbar />
+      <Hero />
+      <Features />
+      <Testimonials />
+      <CTA />
+      <Footer />
     </div>
 )
 
