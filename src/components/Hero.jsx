@@ -15,7 +15,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className="md:w-1/2">
-                <img src="src/assets/illustration-intro.svg" alt="illustration-img"/>
+                <img src="src/assets/illustration-intro.png" alt="illustration-img"/>
             </div>
         </div>
     </section>

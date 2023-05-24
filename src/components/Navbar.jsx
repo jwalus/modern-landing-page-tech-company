@@ -6,13 +6,12 @@ const handleButtonClick = () => {
   nav.classList.toggle('hidden');
 }
 
-
 const Navbar = () => {
   return (
     <nav className="relative container mx-auto p-6">
       <div className="flex items-center justify-between xl:mx-20">
         <div className="pt-2">
-          <img src="src/assets/logo.svg" alt="logo" />
+          <img src="src/assets/logo.png" alt="logo" />
         </div>
         <div className="hidden md:flex space-x-6">
           <a href="#" className="hover:text-darkGrayishBlue">Pricing</a>

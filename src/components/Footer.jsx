@@ -4,23 +4,23 @@ const Footer = () => {
       <div className="container flex flex-col-reverse justify-between px-6 py-10 mx-auto space-y-8 md:flex-row md:space-y-0 xl:px-24">
         <div className="flex flex-col-reverse items-center justify-between space-y-12 md:flex-col md:space-y-0 md:items-start">
           <div>
-            <img src="src/assets/logo-white.svg" alt='logo' className="h-8 md:h-6" />
+            <img src="src/assets/logo-white.png" alt='logo' className="h-8 md:h-6" />
           </div>
           <div className="flex justify-center space-x-4 sm:pb-4">
             <a href="#">
-              <img src="src/assets/icon-facebook.svg" alt="social_icon" className="lg:h-8 md:h-5" />
+              <img src="src/assets/icon-facebook.png" alt="social_icon" className="lg:h-8 md:h-5" />
             </a>
             <a href="#">
-              <img src="src/assets/icon-youtube.svg" alt="social_icon" className="lg:h-8 md:h-5" />
+              <img src="src/assets/icon-youtube.png" alt="social_icon" className="lg:h-8 md:h-5" />
             </a>
             <a href="#">
-              <img src="src/assets/icon-pinterest.svg" alt="social_icon" className="lg:h-8 md:h-5" />
+              <img src="src/assets/icon-pinterest.png" alt="social_icon" className="lg:h-8 md:h-5" />
             </a>
             <a href="#">
-              <img src="src/assets/icon-twitter.svg" alt="social_icon" className="lg:h-8 md:h-5" />
+              <img src="src/assets/icon-twitter.png" alt="social_icon" className="lg:h-8 md:h-5" />
             </a>
             <a href="#">
-              <img src="src/assets/icon-instagram.svg" alt="social_icon" className="lg:h-8 md:h-5" />
+              <img src="src/assets/icon-instagram.png" alt="social_icon" className="lg:h-8 md:h-5" />
             </a>
           </div>
         </div>
